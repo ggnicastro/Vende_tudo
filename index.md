@@ -32,24 +32,24 @@ R$ 450
 R$ 700  
 
 #### Chaleira elétrica  
-![](./)  
+![chaleira](./Chaleira.jpeg)  
 R$ 50  
 
 
 #### Balança inteligent Garmin 
-![](./)  
+![balanca](./Balanca_inteligente.jpeg)  
 R$ 900  
 
 #### Xícara e píres florido
-![](./)  
+![](./Louca.jpeg)  
 R$ 20  
 
 #### Conjunto de pratos e xícaras lilás  
-![](./)  
+![](./Louca_3.jpeg)  
 R$ 60  
 
 #### Conjunto de pratos e xícaras branco  
-![](./)  
+![](./Louca_2.jpeg)  
 R$ 40  
 
 #### Gourmet set 
@@ -65,7 +65,7 @@ R$ 90
 R$ 70  
 
 #### Luminária 
-![](./)  
+![](./Luminaria.jpeg)  
 R$ 90  
 
 #### Microondas  Electrolux 
@@ -73,11 +73,11 @@ R$ 90
 R$ 200  
 
 ####  Impressora Tanque Epson L4160
-![](./)  
+![](./impressora.jpeg)  
 R$ 750  
 
 ####  Aspirador Electrolux (Vassoura elétrica)
-![](./)  
+![](./Vassoura_eletrica.jpeg)  
 R$ 200    
 
 
@@ -86,9 +86,9 @@ R$ 200
 R$ 200    
 
 ####  Alexa Echo Show 8
-![](./)  
+![](./echo_show8.jpg)  
 R$     
 
 ####  Alexa Echo dot 3 com relogio 
-![](./)  
+![](./echo_dot3.jpg)  
 R$     
