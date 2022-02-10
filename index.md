@@ -10,6 +10,16 @@ eleonoraribeiro@gmail.com
 # Itens a venda:
 
 ## Casa
+
+#### Armário
+![Filtro](./Filtro.jpeg)  
+R$ 140  
+
+
+#### Filtro
+![Filtro](./Filtro.jpeg)  
+R$ 280  
+
 #### Moringa
 ![Moringa](./Moringa.jpeg)  
 R$ 30  
@@ -40,11 +50,11 @@ R$ 60
 R$ 40  
 
 #### Gourmet set 
-![](./)  
+![](./Tacas_vinho_2.jpeg)  
 R$ 90  
 
 #### Taças de vinho de cristal 
-![](./)  
+![](./Tacas_vinho.jpeg)  
 R$ 90  
 
 #### Copos 
@@ -69,9 +79,13 @@ R$ 200
 
 
 #### Panela de pressão elétirca
-![](./)  
+![panela pressao](./panela_pressao.jpg)  
 R$ 200    
 
+
+#### Filtro de água
+![](./Filtro.jpeg)  
+R$ 280    
 
 ## Bebe 
 
@@ -83,7 +97,13 @@ R$ 850
 ![Carrinho](./Carrinho.jpeg)  
 R$ 450  
 
+#### Bolsa de gel térmica
+![bolsa gel](./bolsa_gel_termica.jpeg)
+R$ 140
 
+#### Caderinha de carro
+![Caderinha](./Cadeirinha_bebe.jpeg)
+R$ 210
 
 ## Eletrônicos
 
@@ -93,8 +113,14 @@ R$ 750
 
 ####  Alexa Echo Show 8
 ![](./echo_show8.jpg)  
-R$     
+R$ 350 
 
 ####  Alexa Echo dot 3 com relogio 
 ![](./echo_dot3.jpg)  
-R$     
+R$ 150    
+
+#### Ring light
+![ring light](./ring_light.jpeg)
+R$ 50
+
+
