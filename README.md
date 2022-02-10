@@ -15,11 +15,6 @@ eleonoraribeiro@gmail.com
 ![Filtro](./armario.jpeg)  
 R$ 140  
 
-
-#### Filtro
-![Filtro](./Filtro.jpeg)  
-R$ 280  
-
 #### Moringa
 ![Moringa](./Moringa.jpeg)  
 R$ 30  
