@@ -12,7 +12,7 @@ eleonoraribeiro@gmail.com
 ## Casa
 
 #### Armário
-![Filtro](./Filtro.jpeg)  
+![Filtro](./armario.jpeg)  
 R$ 140  
 
 
@@ -66,7 +66,7 @@ R$ 70
 R$ 90  
 
 #### Microondas  Electrolux 
-![](./)  
+![](./microondas.webp)  
 R$ 200  
 
 #### Frigobar 
