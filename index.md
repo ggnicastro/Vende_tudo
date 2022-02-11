@@ -15,7 +15,7 @@ eleonoraribeiro@gmail.com
 ![Filtro](./armario.jpeg)  
 R$ 140  
 
-#### ~Moringa~
+#### Vendido ~Moringa~
 ![Moringa](./Moringa.jpeg)  
 R$ ~30~  
 
@@ -36,9 +36,9 @@ R$ 900
 ![](./Louca.jpeg)  
 R$ ~20~  
 
-#### Conjunto de pratos e xícaras lilás  
+#### Vendido ~Conjunto~ ~de~ ~pratos~ ~e~ ~xícaras~ ~lilás~  
 ![](./Louca_3.jpeg)  
-R$ 60  
+R$ ~60~  
 
 #### Vendido ~Conjunto de pratos e xícaras branco~  
 ![](./Louca_2.jpeg)  
@@ -52,17 +52,17 @@ R$ 90
 ![](./Tacas_vinho.jpeg)  
 R$ ~90~  
 
-#### Copos 
+#### Vendido ~Copos~ 
 ![](./Copos.JPG)  
-R$ 70  
+R$ ~70~  
 
 #### Vendido ~Luminária~  
 ![](./Luminaria.jpeg)  
 R$ ~90~ Vendido  
 
-#### Microondas  Electrolux 
+#### Vendido ~Microondas~  ~Electrolux~ 
 ![](./microondas.webp)  
-R$ 200  
+R$ ~200~  
 
 #### Frigobar 
 ![Frigobar](./FrigoBar.jpeg)  
@@ -73,7 +73,7 @@ R$ 700
 R$ 200    
 
 
-#### Vendido Panela de pressão elétirca
+#### Panela de pressão elétirca
 ![panela pressao](./panela_pressao.jpg)  
 R$ 200    
 
