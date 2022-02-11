@@ -64,10 +64,6 @@ R$ 450
 ![bolsa gel](./bolsa_gel_termica.jpeg)
 R$ 140
 
-#### Caderinha de carro
-![Caderinha](./Cadeirinha_bebe.jpeg)
-R$ 210
-
 #### Bolsa Skip Hop
 ![Bolsa Skip Hop](./Bolsa_bebe.jpg)
 R$ 200
@@ -165,4 +161,8 @@ R$ 180
 ####  Vendido ~Aspirador~ ~Electrolux~ ~(Vassoura elétrica)~
 ![](./Vassoura_eletrica.jpeg)  
 R$ 200    
+
+#### Vendido  ~Caderinha~ ~de~ ~carro~
+![Caderinha](./Cadeirinha_bebe.jpeg)
+R$ 210
 
