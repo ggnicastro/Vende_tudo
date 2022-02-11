@@ -32,17 +32,17 @@ R$ 50
 ![balanca](./Balanca_inteligente.jpeg)  
 R$ 900  
 
-#### Xícara e píres florido
+#### VENDIDO Xícara e píres florido
 ![](./Louca.jpeg)  
-R$ 20  
+R$ VENDIDO  
 
 #### Conjunto de pratos e xícaras lilás  
 ![](./Louca_3.jpeg)  
 R$ 60  
 
-#### Conjunto de pratos e xícaras branco  
+#### VENDIDO Conjunto de pratos e xícaras branco  
 ![](./Louca_2.jpeg)  
-R$ 40  
+R$ VENDIDO  
 
 #### Gourmet set 
 ![](./Tacas_vinho_2.jpeg)  
@@ -78,9 +78,9 @@ R$ 200
 R$ 200    
 
 
-#### Filtro de água
+#### VENDIDO Filtro de água
 ![](./Filtro.jpeg)  
-R$ 280    
+R$ VENDIDO    
 
 #### Apoio de porta (2x)
 ![](./Apoio_porta.JPG)  
@@ -116,7 +116,7 @@ R$ 200
 ![Caderinha](./Lousa.JPG)
 R$ 80
 
-#### Pinico
+#### Penico
 ![Caderinha](./Pinico.JPG)
 R$ 40
 
@@ -138,13 +138,13 @@ R$ 1200
 ![](./impressora.jpeg)  
 R$ 750  
 
-####  Alexa Echo Show 8
+####  VENDIDO Alexa Echo Show 8
 ![](./echo_show8.jpg)  
-R$ 350 
+R$ VENDIDO 
 
-####  Alexa Echo dot 3 com relogio 
+####  VENDIDO Alexa Echo dot 3 com relogio 
 ![](./echo_dot3.jpg)  
-R$ 150    
+R$ VENDIDO    
 
 #### Ring light
 ![ring light](./ring_light.jpeg)
