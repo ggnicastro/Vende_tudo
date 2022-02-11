@@ -32,15 +32,15 @@ R$ 50
 ![balanca](./Balanca_inteligente.jpeg)  
 R$ 900  
 
-#### VENDIDO Xícara e píres florido
+#### Vendido ~Xícara e píres florido~
 ![](./Louca.jpeg)  
-R$ VENDIDO  
+R$ ~20~  
 
 #### Conjunto de pratos e xícaras lilás  
 ![](./Louca_3.jpeg)  
 R$ 60  
 
-#### ~Conjunto de pratos e xícaras branco~  
+#### Vendido ~Conjunto de pratos e xícaras branco~  
 ![](./Louca_2.jpeg)  
 R$ ~40~  
 
@@ -56,7 +56,7 @@ R$ 90
 ![](./Copos.JPG)  
 R$ 70  
 
-#### ~Luminária~  
+#### Vendido ~Luminária~  
 ![](./Luminaria.jpeg)  
 R$ ~90~ Vendido  
 
@@ -78,9 +78,9 @@ R$ 200
 R$ 200    
 
 
-#### VENDIDO Filtro de água
+#### VENDIDO ~Filtro de água~
 ![](./Filtro.jpeg)  
-R$ VENDIDO    
+R$ ~280~    
 
 #### Apoio de porta (2x)
 ![](./Apoio_porta.JPG)  
@@ -120,9 +120,9 @@ R$ 80
 ![Caderinha](./Pinico.JPG)
 R$ 40
 
-#### Assento criança 
+#### Vendido ~Assento~ ~criança~ 
 ![Caderinha](./assento.JPG)
-R$ 70
+R$ ~70~
 
 ## Eletrônicos
 
@@ -138,13 +138,13 @@ R$ 1200
 ![](./impressora.jpeg)  
 R$ 750  
 
-####  VENDIDO Alexa Echo Show 8
+####  VENDIDO ~Alexa~ ~Echo~ ~Show~ ~8~
 ![](./echo_show8.jpg)  
-R$ VENDIDO 
+R$ ~350~ 
 
-####  VENDIDO Alexa Echo dot 3 com relogio 
+####  VENDIDO ~Alexa~ ~Echo~ ~dot~ ~3~ ~com~ ~relogio~ 
 ![](./echo_dot3.jpg)  
-R$ VENDIDO    
+R$ ~150~    
 
 #### Caixa De Som Sony Srs-x5
 ![caixa som](./caixa_som.jpeg)
