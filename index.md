@@ -15,6 +15,10 @@ eleonoraribeiro@gmail.com
 ![Filtro](./armario.jpeg)  
 R$ 140  
 
+#### Estante
+![Estante](./Estante.jpeg)  
+R$ 330  
+
 #### Cadeira de escritório
 ![Cadeira](./Cadeira.jpeg)  
 R$ 850  
@@ -31,10 +35,6 @@ R$ 90
 #### Frigobar
 ![Frigobar](./FrigoBar.jpeg)  
 R$ 700  
-
-####  Aspirador Electrolux (Vassoura elétrica)
-![](./Vassoura_eletrica.jpeg)  
-R$ 200    
 
 
 #### Panela de pressão elétirca
@@ -96,9 +96,6 @@ R$ 1200
 R$ 750  
 
 
-#### Caixa De Som Sony Srs-x5  
-![caixa som](./caixa_som.jpeg)  
-R$ 180
 
 #### Ring light
 ![ring light](./ring_light.jpeg)  
@@ -160,4 +157,12 @@ R$ ~90~ Vendido
 #### VENDIDO ~Microondas~  ~Electrolux~
 ![](./microondas.webp)  
 R$ ~200~  
+
+#### Vendido  ~Caixar~ ~De~ ~Som~ ~Sony~ ~Srs-x5~  
+![caixa som](./caixa_som.jpeg)  
+R$ 180
+
+####  Vendido ~Aspirador~ ~Electrolux~ ~(Vassoura elétrica)~
+![](./Vassoura_eletrica.jpeg)  
+R$ 200    
 
