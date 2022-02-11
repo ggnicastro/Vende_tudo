@@ -19,16 +19,16 @@ R$ 140
 ![Moringa](./Moringa.jpeg)  
 R$ ~30~  
 
-#### Cadeira de escritório 
+#### Cadeira de escritório
 ![Cadeira](./Cadeira.jpeg)  
 R$ 850  
 
-#### Vendido ~Chaleira elétrica~  
+#### Vendido Chaleira elétrica  
 ![chaleira](./Chaleira.jpeg)  
-R$ ~50~  
+R$ 50  
 
 
-#### Balança inteligent Garmin 
+#### Balança inteligent Garmin
 ![balanca](./Balanca_inteligente.jpeg)  
 R$ 900  
 
@@ -44,15 +44,15 @@ R$ ~60~
 ![](./Louca_2.jpeg)  
 R$ ~40~  
 
-#### Gourmet set 
+#### Gourmet set
 ![](./Tacas_vinho_2.jpeg)  
 R$ 90  
 
-#### Vendido ~Taças de vinho de cristal~ 
+#### Vendido ~Taças de vinho de cristal~
 ![](./Tacas_vinho.jpeg)  
 R$ ~90~  
 
-#### Vendido ~Copos~ 
+#### Vendido ~Copos~
 ![](./Copos.JPG)  
 R$ ~70~  
 
@@ -60,11 +60,11 @@ R$ ~70~
 ![](./Luminaria.jpeg)  
 R$ ~90~ Vendido  
 
-#### Vendido ~Microondas~  ~Electrolux~ 
+#### ~Microondas~  ~Electrolux~
 ![](./microondas.webp)  
 R$ ~200~  
 
-#### Frigobar 
+#### Frigobar
 ![Frigobar](./FrigoBar.jpeg)  
 R$ 700  
 
@@ -90,13 +90,13 @@ R$ 40
 ![](./Prateleiras.JPG)  
 R$ 320    
 
-## Bebe 
+## Bebe
 
-#### Babá eletrônica 
+#### Babá eletrônica
 ![Babá eletrônica](./BABA.jpg)  
 R$ 850  
 
-#### Carrinho de bebê 
+#### Carrinho de bebê
 ![Carrinho](./Carrinho.jpeg)  
 R$ 450  
 
@@ -120,13 +120,13 @@ R$ 80
 ![Caderinha](./Pinico.JPG)
 R$ 40
 
-#### Vendido ~Assento~ ~criança~ 
+#### Vendido ~Assento~ ~criança~
 ![Caderinha](./assento.JPG)
 R$ ~70~
 
 ## Eletrônicos
 
-####  Mac mini modelo Late 2012 4gb , com SSD 128 gb 
+####  Mac mini modelo Late 2012 4gb , com SSD 128 gb
 ![](./macmini.jpeg)  
 R$ 1700  
 
@@ -140,9 +140,9 @@ R$ 750
 
 ####  VENDIDO ~Alexa~ ~Echo~ ~Show~ ~8~
 ![](./echo_show8.jpg)  
-R$ ~350~ 
+R$ ~350~
 
-####  VENDIDO ~Alexa~ ~Echo~ ~dot~ ~3~ ~com~ ~relogio~ 
+####  VENDIDO ~Alexa~ ~Echo~ ~dot~ ~3~ ~com~ ~relogio~
 ![](./echo_dot3.jpg)  
 R$ ~150~    
 
@@ -153,5 +153,3 @@ R$ 180
 #### Ring light
 ![ring light](./ring_light.jpeg)  
 R$ 50
-
-
