@@ -60,7 +60,7 @@ R$ ~70~
 ![](./Luminaria.jpeg)  
 R$ ~90~ Vendido  
 
-#### ~Microondas~  ~Electrolux~
+#### VENDIDO ~Microondas~  ~Electrolux~
 ![](./microondas.webp)  
 R$ ~200~  
 
