@@ -15,17 +15,17 @@ eleonoraribeiro@gmail.com
 ![Filtro](./armario.jpeg)  
 R$ 140  
 
-#### Moringa
+#### ~Moringa~
 ![Moringa](./Moringa.jpeg)  
-R$ 30  
+R$ ~30~  
 
 #### Cadeira de escritório 
 ![Cadeira](./Cadeira.jpeg)  
 R$ 850  
 
-#### Chaleira elétrica  
+#### Vendido ~Chaleira elétrica~  
 ![chaleira](./Chaleira.jpeg)  
-R$ 50  
+R$ ~50~  
 
 
 #### Balança inteligent Garmin 
@@ -48,9 +48,9 @@ R$ ~40~
 ![](./Tacas_vinho_2.jpeg)  
 R$ 90  
 
-#### Taças de vinho de cristal 
+#### Vendido ~Taças de vinho de cristal~ 
 ![](./Tacas_vinho.jpeg)  
-R$ 90  
+R$ ~90~  
 
 #### Copos 
 ![](./Copos.JPG)  
@@ -73,9 +73,9 @@ R$ 700
 R$ 200    
 
 
-#### Panela de pressão elétirca
+#### Vendido ~Panela~ ~de~ ~pressão~ ~elétirca~
 ![panela pressao](./panela_pressao.jpg)  
-R$ 200    
+R$ ~200~    
 
 
 #### VENDIDO ~Filtro de água~
