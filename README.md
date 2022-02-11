@@ -15,6 +15,10 @@ eleonoraribeiro@gmail.com
 ![Filtro](./armario.jpeg)  
 R$ 140  
 
+#### Estante
+![Estante](./Estante.jpeg)  
+R$ 330  
+
 #### Cadeira de escritório
 ![Cadeira](./Cadeira.jpeg)  
 R$ 850  
