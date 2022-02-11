@@ -15,54 +15,18 @@ eleonoraribeiro@gmail.com
 ![Filtro](./armario.jpeg)  
 R$ 140  
 
-#### Vendido ~Moringa~
-![Moringa](./Moringa.jpeg)  
-R$ ~30~  
-
 #### Cadeira de escritório
 ![Cadeira](./Cadeira.jpeg)  
 R$ 850  
-
-#### Vendido Chaleira elétrica  
-![chaleira](./Chaleira.jpeg)  
-R$ 50  
-
 
 #### Balança inteligent Garmin
 ![balanca](./Balanca_inteligente.jpeg)  
 R$ 900  
 
-#### Vendido ~Xícara e píres florido~
-![](./Louca.jpeg)  
-R$ ~20~  
-
-#### Vendido ~Conjunto~ ~de~ ~pratos~ ~e~ ~xícaras~ ~lilás~  
-![](./Louca_3.jpeg)  
-R$ ~60~  
-
-#### Vendido ~Conjunto de pratos e xícaras branco~  
-![](./Louca_2.jpeg)  
-R$ ~40~  
 
 #### Gourmet set
 ![](./Tacas_vinho_2.jpeg)  
 R$ 90  
-
-#### Vendido ~Taças de vinho de cristal~
-![](./Tacas_vinho.jpeg)  
-R$ ~90~  
-
-#### Vendido ~Copos~
-![](./Copos.JPG)  
-R$ ~70~  
-
-#### Vendido ~Luminária~  
-![](./Luminaria.jpeg)  
-R$ ~90~ Vendido  
-
-#### VENDIDO ~Microondas~  ~Electrolux~
-![](./microondas.webp)  
-R$ ~200~  
 
 #### Frigobar
 ![Frigobar](./FrigoBar.jpeg)  
@@ -77,10 +41,6 @@ R$ 200
 ![panela pressao](./panela_pressao.jpg)  
 R$ 200    
 
-
-#### VENDIDO ~Filtro de água~
-![](./Filtro.jpeg)  
-R$ ~280~    
 
 #### Apoio de porta (2x)
 ![](./Apoio_porta.JPG)  
@@ -120,9 +80,6 @@ R$ 80
 ![Caderinha](./Pinico.JPG)
 R$ 40
 
-#### Vendido ~Assento~ ~criança~
-![Caderinha](./assento.JPG)
-R$ ~70~
 
 ## Eletrônicos
 
@@ -138,13 +95,6 @@ R$ 1200
 ![](./impressora.jpeg)  
 R$ 750  
 
-####  VENDIDO ~Alexa~ ~Echo~ ~Show~ ~8~
-![](./echo_show8.jpg)  
-R$ ~350~
-
-####  VENDIDO ~Alexa~ ~Echo~ ~dot~ ~3~ ~com~ ~relogio~
-![](./echo_dot3.jpg)  
-R$ ~150~    
 
 #### Caixa De Som Sony Srs-x5  
 ![caixa som](./caixa_som.jpeg)  
@@ -153,3 +103,61 @@ R$ 180
 #### Ring light
 ![ring light](./ring_light.jpeg)  
 R$ 50
+
+
+# Itens vendidos:
+
+####  VENDIDO ~Alexa~ ~Echo~ ~Show~ ~8~
+![](./echo_show8.jpg)  
+R$ ~350~
+
+####  VENDIDO ~Alexa~ ~Echo~ ~dot~ ~3~ ~com~ ~relogio~
+![](./echo_dot3.jpg)  
+R$ ~150~    
+
+
+#### Vendido ~Assento~ ~criança~
+![Caderinha](./assento.JPG)
+R$ ~70~
+
+#### VENDIDO ~Filtro de água~
+![](./Filtro.jpeg)  
+R$ ~280~    
+
+#### Vendido ~Moringa~
+![Moringa](./Moringa.jpeg)  
+R$ ~30~  
+
+#### Vendido Chaleira elétrica  
+![chaleira](./Chaleira.jpeg)  
+R$ 50  
+
+
+#### Vendido ~Xícara e píres florido~
+![](./Louca.jpeg)  
+R$ ~20~  
+
+#### Vendido ~Conjunto~ ~de~ ~pratos~ ~e~ ~xícaras~ ~lilás~  
+![](./Louca_3.jpeg)  
+R$ ~60~  
+
+#### Vendido ~Conjunto de pratos e xícaras branco~  
+![](./Louca_2.jpeg)  
+R$ ~40~  
+
+#### Vendido ~Taças de vinho de cristal~
+![](./Tacas_vinho.jpeg)  
+R$ ~90~  
+
+#### Vendido ~Copos~
+![](./Copos.JPG)  
+R$ ~70~  
+
+#### Vendido ~Luminária~  
+![](./Luminaria.jpeg)  
+R$ ~90~ Vendido  
+
+#### VENDIDO ~Microondas~  ~Electrolux~
+![](./microondas.webp)  
+R$ ~200~  
+
