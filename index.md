@@ -40,9 +40,9 @@ R$ VENDIDO
 ![](./Louca_3.jpeg)  
 R$ 60  
 
-#### VENDIDO Conjunto de pratos e xícaras branco  
+#### ~Conjunto de pratos e xícaras branco~  
 ![](./Louca_2.jpeg)  
-R$ VENDIDO  
+R$ ~40~  
 
 #### Gourmet set 
 ![](./Tacas_vinho_2.jpeg)  
@@ -56,9 +56,9 @@ R$ 90
 ![](./Copos.JPG)  
 R$ 70  
 
-#### Luminária 
+#### ~Luminária~  
 ![](./Luminaria.jpeg)  
-R$ 90  
+R$ ~90~ Vendido  
 
 #### Microondas  Electrolux 
 ![](./microondas.webp)  
