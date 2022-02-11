@@ -146,12 +146,12 @@ R$ ~350~
 ![](./echo_dot3.jpg)  
 R$ ~150~    
 
-#### Caixa De Som Sony Srs-x5
-![caixa som](./caixa_som.jpeg)
+#### Caixa De Som Sony Srs-x5  
+![caixa som](./caixa_som.jpeg)  
 R$ 180
 
 #### Ring light
-![ring light](./ring_light.jpeg)
+![ring light](./ring_light.jpeg)  
 R$ 50
 
 
