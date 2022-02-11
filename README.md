@@ -53,7 +53,7 @@ R$ 90
 R$ 90  
 
 #### Copos 
-![](./)  
+![](./Copos.JPG)  
 R$ 70  
 
 #### Luminária 
@@ -82,6 +82,14 @@ R$ 200
 ![](./Filtro.jpeg)  
 R$ 280    
 
+#### Apoio de porta (2x)
+![](./Apoio_porta.JPG)  
+R$ 40    
+
+#### Prateleiras (2x)
+![](./Prateleiras.JPG)  
+R$ 320    
+
 ## Bebe 
 
 #### Babá eletrônica 
@@ -100,7 +108,31 @@ R$ 140
 ![Caderinha](./Cadeirinha_bebe.jpeg)
 R$ 210
 
+#### Bolsa Skip Hop
+![Bolsa Skip Hop](./Bolsa_bebe.jpg)
+R$ 200
+
+#### Lousinha
+![Caderinha](./Lousa.JPG)
+R$ 80
+
+#### Pinico
+![Caderinha](./Pinico.JPG)
+R$ 40
+
+#### Assento criança 
+![Caderinha](./assento.JPG)
+R$ 70
+
 ## Eletrônicos
+
+####  Mac mini modelo Late 2012 4gb , com SSD 128 gb 
+![](./macmini.jpeg)  
+R$ 1700  
+
+####  Computador/Tablet Surface 3 com dock station. Windows 10, 4gb de ram 128gb mme.
+![](./surface-3.jpg)  
+R$ 1200  
 
 ####  Impressora Tanque Epson L4160
 ![](./impressora.jpeg)  
