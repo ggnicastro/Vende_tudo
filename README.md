@@ -73,9 +73,9 @@ R$ 700
 R$ 200    
 
 
-#### Vendido ~Panela~ ~de~ ~pressão~ ~elétirca~
+#### Vendido Panela de pressão elétirca
 ![panela pressao](./panela_pressao.jpg)  
-R$ ~200~    
+R$ 200    
 
 
 #### VENDIDO ~Filtro de água~
