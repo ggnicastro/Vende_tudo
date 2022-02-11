@@ -23,9 +23,9 @@ R$ ~30~
 ![Cadeira](./Cadeira.jpeg)  
 R$ 850  
 
-#### Vendido ~Chaleira elétrica~  
+#### Vendido Chaleira elétrica  
 ![chaleira](./Chaleira.jpeg)  
-R$ ~50~  
+R$ 50  
 
 
 #### Balança inteligent Garmin 
@@ -60,9 +60,9 @@ R$ 70
 ![](./Luminaria.jpeg)  
 R$ ~90~ Vendido  
 
-#### Microondas  Electrolux 
+#### ~Microondas~  ~Electrolux~ 
 ![](./microondas.webp)  
-R$ 200  
+R$ ~200~  
 
 #### Frigobar 
 ![Frigobar](./FrigoBar.jpeg)  
