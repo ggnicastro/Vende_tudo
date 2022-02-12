@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//GDSX//COMPLEAT v2.7.126.3//EN
+METHOD:PUBLISH
+BEGIN:VEVENT
+CREATED:20220210T170611Z
+DTSTAMP:20220210T170611Z
+LAST-MODIFIED:20220210T170611Z
+SEQUENCE:0
+UID:e6419ad3-c664-4c32-9d82-ef34da64c598
+LOCATION:Guarulhos International
+DESCRIPTION:Flight Information\n\nUnited Airlines Flight # 860\nUnited
+  Airlines Confirmation: F92JQY\nAgency Confirmation: Q9FS8W\n\nDepart:
+  Guarulhos International (GRU)\, Sao Paulo\, Sao Paulo\, Brazil\nDepart
+  Time: 11:55 PM\nTerminal: 3\n\nArrive: Dulles International
+  (IAD)\, Washington\, District of Columbia\, United States\nArrive
+  Time: 8:00 AM\n
+SUMMARY:Q9FS8W - Flight Sao Paulo - Washington (United Airlines Flight
+  # 860)
+CLASS:PUBLIC
+PRIORITY:5
+TRANSP:OPAQUE
+DTSTART:20220306T025500Z
+DURATION:PT10H5M
+END:VEVENT
+END:VCALENDAR

@@ -87,10 +87,6 @@ R$ 1700
 ![](./surface-3.jpg)  
 R$ 1200  
 
-####  Impressora Tanque Epson L4160
-![](./impressora.jpeg)  
-R$ 750  
-
 
 
 #### Ring light
@@ -99,6 +95,10 @@ R$ 50
 
 
 # Itens vendidos:
+
+#### VENDIDO ~Impressora~ ~Tanque~ ~Epson~ ~L4160~
+![](./impressora.jpeg)  
+~R$~ ~750~  
 
 ####  VENDIDO ~Alexa~ ~Echo~ ~Show~ ~8~
 ![](./echo_show8.jpg)  
