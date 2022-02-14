@@ -11,17 +11,6 @@ eleonoraribeiro@gmail.com
 
 ## Casa
 
-#### Armário
-![Filtro](./armario.jpeg)  
-R$ 140  
-
-#### Estante
-![Estante](./Estante.jpeg)  
-R$ 330  
-
-#### Cadeira de escritório
-![Cadeira](./Cadeira.jpeg)  
-R$ 850  
 
 #### Balança inteligent Garmin
 ![balanca](./Balanca_inteligente.jpeg)  
@@ -32,23 +21,10 @@ R$ 900
 ![](./Tacas_vinho_2.jpeg)  
 R$ 90  
 
-#### Frigobar
-![Frigobar](./FrigoBar.jpeg)  
-R$ 700  
-
-
 #### Panela de pressão elétirca
 ![panela pressao](./panela_pressao.jpg)  
 R$ 200    
 
-
-#### Apoio de porta (2x)
-![](./Apoio_porta.JPG)  
-R$ 40    
-
-#### Prateleiras (2x)
-![](./Prateleiras.JPG)  
-R$ 320    
 
 ## Bebe
 
@@ -67,10 +43,6 @@ R$ 140
 #### Bolsa Skip Hop
 ![Bolsa Skip Hop](./Bolsa_bebe.jpg)
 R$ 200
-
-#### Lousinha
-![Caderinha](./Lousa.JPG)
-R$ 80
 
 #### Penico
 ![Caderinha](./Pinico.JPG)
@@ -165,4 +137,33 @@ R$ 200
 #### Vendido  ~Caderinha~ ~de~ ~carro~
 ![Caderinha](./Cadeirinha_bebe.jpeg)
 R$ 210
+
+#### Vendido Armário
+![Filtro](./armario.jpeg)  
+R$ 140  
+
+#### Vendido Estante
+![Estante](./Estante.jpeg)  
+R$ 330  
+
+#### Vendido Cadeira de escritório
+![Cadeira](./Cadeira.jpeg)  
+R$ 850  
+
+#### Vendido Apoio de porta (2x)
+![](./Apoio_porta.JPG)  
+R$ 40    
+
+#### Vendido Prateleiras (2x)
+![](./Prateleiras.JPG)  
+R$ 320    
+
+#### Vendido Lousinha
+![Caderinha](./Lousa.JPG)
+R$ 80
+
+#### Vendido Frigobar
+![Frigobar](./FrigoBar.jpeg)  
+R$ 700  
+
 
