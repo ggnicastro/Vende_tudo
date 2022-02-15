@@ -11,25 +11,9 @@ eleonoraribeiro@gmail.com
 
 ## Casa
 
-####  Bomboniere cristal.
-![](./Bomboniere.jpeg)  
-R$ 40  
-
-#### Caçarola de cerâmica Fontignac.
-![](./Cassarola_font.jpeg)  
-R$ 120  
-
-#### Travessa le Creuset.
-![](./Travessa_leCrusec.jpeg)  
-R$ 150  
-
 #### Panela Jamie Oliver 24 Cm.
 ![](./Panela_jamie_oliver.jpeg)  
 R$ 320  
-
-#### Refratário cerâmica Fontignac.
-![](./Refratario_cerfont.jpeg)  
-R$ 140  
 
 ####  Fruteira de vidro.
 ![](./Fruteira.jpeg)  
@@ -210,4 +194,20 @@ R$ 80
 ![Frigobar](./FrigoBar.jpeg)  
 R$ 700  
 
+
+#### Vendido  Bomboniere cristal.
+![](./Bomboniere.jpeg)  
+R$ 40  
+
+#### Vendido Caçarola de cerâmica Fontignac.
+![](./Cassarola_font.jpeg)  
+R$ 120  
+
+#### Vendido Travessa le Creuset.
+![](./Travessa_leCrusec.jpeg)  
+R$ 150  
+
+#### Vendido Refratário cerâmica Fontignac.
+![](./Refratario_cerfont.jpeg)  
+R$ 140  
 
