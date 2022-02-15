@@ -15,7 +15,7 @@ eleonoraribeiro@gmail.com
 ![](./Bomboniere.jpeg)  
 R$ 40  
 
-#### Caçarola de cerâmica fontignac.
+#### Caçarola de cerâmica Fontignac.
 ![](./Cassarola_font.jpeg)  
 R$ 120  
 
@@ -27,8 +27,8 @@ R$ 150
 ![](./Panela_jamie_oliver.jpeg)  
 R$ 320  
 
-#### Refratário cerâmica fontignac.
-![](./surface-3.jpg)  
+#### Refratário cerâmica Fontignac.
+![](./Refratario_cerfont.jpeg)  
 R$ 140  
 
 ####  Fruteira de vidro.
@@ -52,7 +52,7 @@ R$ 25
 R$ 45  
 
 #### Livro O que tem na geladeira  Rita lobo.
-![](./Panelinha_rita.jpeg)  
+![](./Oque_tem_geladeira.jpeg)  
 R$ 35  
 
 
