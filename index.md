@@ -11,6 +11,50 @@ eleonoraribeiro@gmail.com
 
 ## Casa
 
+####  Bomboniere cristal.
+![](./Bomboniere.jpeg)  
+R$ 40  
+
+#### Caçarola de cerâmica fontignac.
+![](./Cassarola_font.jpeg)  
+R$ 120  
+
+#### Travessa le Creuset.
+![](./Travessa_leCrusec.jpeg)  
+R$ 150  
+
+#### Panela Jamie Oliver 24 Cm.
+![](./Panela_jamie_oliver.jpeg)  
+R$ 320  
+
+#### Refratário cerâmica fontignac.
+![](./surface-3.jpg)  
+R$ 140  
+
+####  Fruteira de vidro.
+![](./Fruteira.jpeg)  
+R$ 80  
+
+#### Garrafa decorativa.
+![](./Garrafa_decorativa.jpeg)  
+R$ 45  
+
+#### Vaso de enfeite camicado.
+![](./Vaso_enfeite_camicado.jpeg)  
+R$ 45  
+
+#### Livro comdida de bebê Rita Lobo.
+![](./Comida_de_bebe_rita.jpeg)  
+R$ 25  
+
+#### Livro Panelinha Rita lobo.
+![](./Panelinha_rita.jpeg)  
+R$ 45  
+
+#### Livro O que tem na geladeira  Rita lobo.
+![](./Panelinha_rita.jpeg)  
+R$ 35  
+
 
 #### Balança inteligent Garmin
 ![balanca](./Balanca_inteligente.jpeg)  
