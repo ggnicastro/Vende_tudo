@@ -19,10 +19,6 @@ R$ 320
 ![](./Fruteira.jpeg)  
 R$ 80  
 
-#### Garrafa decorativa.
-![](./Garrafa_decorativa.jpeg)  
-R$ 45  
-
 #### Vaso de enfeite camicado.
 ![](./Vaso_enfeite_camicado.jpeg)  
 R$ 45  
@@ -31,13 +27,10 @@ R$ 45
 ![](./Comida_de_bebe_rita.jpeg)  
 R$ 25  
 
-#### Livro Panelinha Rita lobo.
-![](./Panelinha_rita.jpeg)  
-R$ 45  
+#### Chaleira elétrica  
+![chaleira](./Chaleira.jpeg)  
+R$ 50  
 
-#### Livro O que tem na geladeira  Rita lobo.
-![](./Oque_tem_geladeira.jpeg)  
-R$ 35  
 
 
 #### Balança inteligent Garmin
@@ -72,10 +65,6 @@ R$ 140
 ![Bolsa Skip Hop](./Bolsa_bebe.jpg)
 R$ 200
 
-#### Penico
-![Caderinha](./Pinico.JPG)
-R$ 40
-
 
 ## Eletrônicos
 
@@ -88,10 +77,6 @@ R$ 1700
 R$ 1200  
 
 
-
-#### Ring light
-![ring light](./ring_light.jpeg)  
-R$ 50
 
 
 # Itens vendidos:
@@ -120,10 +105,6 @@ R$ ~280~
 #### Vendido ~Moringa~
 ![Moringa](./Moringa.jpeg)  
 R$ ~30~  
-
-#### Vendido Chaleira elétrica  
-![chaleira](./Chaleira.jpeg)  
-R$ 50  
 
 
 #### Vendido ~Xícara e píres florido~
@@ -210,4 +191,25 @@ R$ 150
 #### Vendido Refratário cerâmica Fontignac.
 ![](./Refratario_cerfont.jpeg)  
 R$ 140  
+
+#### Vendido  Garrafa decorativa.
+![](./Garrafa_decorativa.jpeg)  
+R$ 45  
+
+#### Vendido Livro Panelinha Rita lobo.
+![](./Panelinha_rita.jpeg)  
+R$ 45  
+
+#### Vendido Livro O que tem na geladeira  Rita lobo.
+![](./Oque_tem_geladeira.jpeg)  
+R$ 35  
+
+
+#### Vendido Penico
+![Caderinha](./Pinico.JPG)
+R$ 40
+
+#### Vendido Ring light
+![ring light](./ring_light.jpeg)  
+R$ 50
 
